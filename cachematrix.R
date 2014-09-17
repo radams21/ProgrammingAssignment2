@@ -1,4 +1,3 @@
-## Rachel Adams
 ## Coursera: R Programming
 ## prog-007
 ## Assignment 2: Lexical Scoping
